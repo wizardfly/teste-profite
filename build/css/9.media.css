@@ -1,0 +1,130 @@
+/* media */
+
+@media screen and (max-width:850px) {
+	header .logo img {
+		max-width: 168px;
+		margin: 43px 30px 40px 0;
+	}
+
+	header form {
+		width: calc(100% - 460px - 20px);
+		margin: 0 20px 0 0;
+	}
+
+	header .login {
+		margin: 50px 20px 0 0;
+		font-size: 13px;
+	}
+
+	header .login a {
+		font-size: 11.5px;
+	}
+}
+
+@media screen and (max-width:750px) {
+	footer .block {
+		width: 48%;
+	}
+
+	footer .block:last-child {
+		width: 100%;
+	}
+
+	footer .block ul li {
+		width: 46%;
+		margin: 0 2%;
+		float: left;
+	}
+
+	footer .block ul li a {
+		width:calc(100% - 2px);
+		margin: 0;
+	}
+}
+
+@media screen and (max-width:670px) {
+	header .logo {
+		float: none;
+	}
+
+	header .logo img {
+		max-width: 233px;
+		margin: 35px auto;
+	}
+
+	header .login {
+		position: absolute;
+		top: 3%;
+		right: 0;
+	}
+
+	header form {
+		width: 100%;
+		position: absolute;
+		bottom: 10px;
+		left: 0;
+	}
+
+	header form fieldset {
+		margin: 0;
+	}
+
+	header .info {
+		display: none;
+	}
+
+	header.section {
+		position: relative;
+		padding: 0 0 30px;
+	}
+}
+
+@media screen and (max-width:520px) {
+	header .logo img {
+		margin: 35px 0;
+	}
+}
+
+@media screen and (max-width:490px) {
+	footer .block {
+		width: 100%;
+		margin: 0;
+	}
+
+	.content ul li figure .buy {
+		width: 85%;
+	}
+
+	.content ul li figure .buy i {
+		display: none;
+	}
+}
+
+@media screen and (max-width:450px) {
+	.slider{
+		display:none;
+	}
+
+	.content {
+	    padding: 10px 0 35px;
+	}
+}
+
+@media screen and (max-width:390px) {
+	header .logo img {
+		max-width: 120px;
+	}
+
+	header .login {
+		top: 0;
+		right: 0;
+		margin: 37px 20px 0 0;
+	}
+}
+
+@media screen and (max-width:340px) {
+	footer .block ul li {
+		width: 100%;
+		margin: 0 0 10px;
+	}
+}

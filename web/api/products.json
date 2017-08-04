@@ -1,0 +1,64 @@
+{
+    "product" : [
+        {
+            "name"      : "Lorem ipsum dolor sit amet 1",
+            "href"      : "#",
+            "img"       : "img/product_1.png",
+            "rating"    : "60%",
+            "oldPrice"  : "R$ 219,90",
+            "newPrice"  : "R$ 159,92",
+            "parcel"    : "ou até 7X de R$ 22,84",
+            "info"      : "Economize: R$ 59,98"
+        },
+        {
+            "name"      : "Lorem ipsum dolor sit amet 2",
+            "href"      : "#",
+            "img"       : "img/product_1.png",
+            "rating"    : "20%",
+            "oldPrice"  : "R$ 219,90",
+            "newPrice"  : "R$ 159,92",
+            "parcel"    : "ou até 7X de R$ 22,84",
+            "info"      : "Economize: R$ 59,98"
+        },
+        {
+            "name"      : "Lorem ipsum dolor sit amet 3",
+            "href"      : "#",
+            "img"       : "img/product_1.png",
+            "rating"    : "40%",
+            "oldPrice"  : "R$ 219,90",
+            "newPrice"  : "R$ 159,92",
+            "parcel"    : "ou até 7X de R$ 22,84",
+            "info"      : "Economize: R$ 59,98"
+        },
+        {
+            "name"      : "Lorem ipsum dolor sit amet 4",
+            "href"      : "#",
+            "img"       : "img/product_1.png",
+            "rating"    : "100%",
+            "oldPrice"  : "R$ 219,90",
+            "newPrice"  : "R$ 159,92",
+            "parcel"    : "ou até 7X de R$ 22,84",
+            "info"      : "Economize: R$ 59,98"
+        },
+        {
+            "name"      : "Lorem ipsum dolor sit amet 5",
+            "href"      : "#",
+            "img"       : "img/product_1.png",
+            "rating"    : "80%",
+            "oldPrice"  : "R$ 219,90",
+            "newPrice"  : "R$ 159,92",
+            "parcel"    : "ou até 7X de R$ 22,84",
+            "info"      : "Economize: R$ 59,98"
+        },
+        {
+            "name"      : "Lorem ipsum dolor sit amet 6",
+            "href"      : "#",
+            "img"       : "img/product_1.png",
+            "rating"    : "40%",
+            "oldPrice"  : "R$ 219,90",
+            "newPrice"  : "R$ 159,92",
+            "parcel"    : "ou até 7X de R$ 22,84",
+            "info"      : "Economize: R$ 59,98"
+        }
+    ]
+}
