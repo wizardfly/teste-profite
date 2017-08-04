@@ -15,18 +15,16 @@ Requires server [localhost] for view .json
 
 #### Get all dependencies
 ###### run
-`sh
+```sh
 $ npm install
-`
+```
 #### Compile files BUILD to WEB
 ###### run
-`
+```sh
 $ grunt js
-`
-
-`
 $ grunt css
-`
+```
+
 ---
 
 GRUNT config for compile [js + css]
