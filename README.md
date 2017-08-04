@@ -1,16 +1,16 @@
-> Created: 01/08/17
-> Updated: 04/08/17
-> Courtesy:
-> 	Adonis Vieira
->   WIZARDFLY
->   http://wfly.esy.es
-> To:
->   Profite
+> Created: 01/08/17<br />
+> Updated: 04/08/17<br />
+> Courtesy:<br />
+> 	Adonis Vieira<br />
+>   WIZARDFLY<br />
+>   http://wfly.esy.es<br />
+> To:<br />
+>   Profite<br />
 
 ---
 
 IMPORTANT!
-Requires nodejs [Node.js](https://nodejs.org/en/) 
+Requires nodejs [Node.js](https://nodejs.org/en/)<br />
 Requires server [localhost] for view .json
 
 #### Get all dependencies
@@ -22,7 +22,7 @@ $ npm install
 ###### run
 `
 $ grunt js
-`
+`<br />
 `
 $ grunt css
 `
