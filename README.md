@@ -22,7 +22,8 @@ $ npm install
 ###### run
 `
 $ grunt js
-`<br />
+`
+
 `
 $ grunt css
 `
